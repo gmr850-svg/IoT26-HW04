@@ -1,6 +1,10 @@
 # IoT26-HW04
 1. Source Code Screenshot
+- Python Code
 <img width="574" height="643" alt="image" src="https://github.com/user-attachments/assets/799a9a73-5ac8-46c2-aa1a-9b4fcd764dd8" />
+<br />
+- Html Code
+<img width="929" height="702" alt="image" src="https://github.com/user-attachments/assets/00d6ce2b-5936-4bd4-97a4-428b281e4542" />
 <br />
 
 2. IDE Screenshot
